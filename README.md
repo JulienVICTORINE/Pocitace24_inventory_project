@@ -79,22 +79,22 @@ The script automatically generates two files :
 ### Example output :
 
 =====================================================================================
-SYSTEM MATERIAL REPORT
-Generated the : 2026-03-06 10:41:06
+-   SYSTEM MATERIAL REPORT
+-   Generated the : 2026-03-06 10:41:06
 =====================================================================================
 
-Model: ASUSTeK COMPUTER INC. VivoBook_ASUSLaptop X521EA_S533EA S/N: M3N0CV11P745118
-CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
-RAM: 16GB DDR4
-Disk: INTEL SSDPEKNW512G8 512GB NVMe
-Mechanika: NE
-GPU: Intel(R) Iris(R) Xe Graphics
-GPU2: NE
-LCD: 15.3 1920x1080
-Wifi: Intel(R) Wi-Fi 6 AX201 160MHz [Wifi AX]
-BAT: 92.10% [45.00/48.90 Wh]
-OS: Microsoft Windows 11 Famille 64 bits (25H2)
-BT:Ano WC:Ano FACE:Check B-KBD:Check
+-   Model: ASUSTeK COMPUTER INC. VivoBook_ASUSLaptop X521EA_S533EA S/N: M3N0CV11P745118
+-   CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+-   RAM: 16GB DDR4
+-   Disk: INTEL SSDPEKNW512G8 512GB NVMe
+-   Mechanika: NE
+-   GPU: Intel(R) Iris(R) Xe Graphics
+-   GPU2: NE
+-   LCD: 15.3 1920x1080
+-   Wifi: Intel(R) Wi-Fi 6 AX201 160MHz [Wifi AX]
+-   BAT: 92.10% [45.00/48.90 Wh]
+-   OS: Microsoft Windows 11 Famille 64 bits (25H2)
+-   BT:Ano WC:Ano FACE:Check B-KBD:Check
 
 ---
 
