@@ -73,8 +73,8 @@ The script collects and generates reports containing the following information :
 ## Output
 
 The script automatically generates two files :
--   machine_report.json – structured JSON report
--   machine_report.txt – human-readable summary
+-   **machine_report.json** – structured JSON report
+-   **machine_report.txt** – human-readable summary
 
 ### Example output :
 
