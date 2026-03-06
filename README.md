@@ -97,7 +97,7 @@ The script automatically generates two files :
 
 -   Python3
 -   PowerShell (Windows hardware queries)
--   Linux system utilities (lscpu, lsblk, lspci)
+-   Linux system utilities (`lscpu`, `lsblk`, `lspci`)
 -   JSON data processing
 -   Cross-platform system detection
 
