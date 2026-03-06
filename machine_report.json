@@ -1,0 +1,100 @@
+{
+  "collected_at": "2026-03-06T10:40:49",
+  "hostname": "LAPTOP-DTP7KQJ4",
+  "os": {
+    "system": "Windows",
+    "release": "11",
+    "version": "10.0.26200",
+    "machine": "AMD64",
+    "pretty_name": "Microsoft Windows 11 Famille 64 bits",
+    "kernel": "Build 26200",
+    "display_version": "25H2"
+  },
+  "system": {
+    "vendor": "ASUSTeK COMPUTER INC.",
+    "model": "VivoBook_ASUSLaptop X521EA_S533EA",
+    "serial": "M3N0CV11P745118"
+  },
+  "cpu": {
+    "model_name": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+    "base_clock_ghz": "2.40 GHz",
+    "cores_physical": "4",
+    "cores_logical": "8"
+  },
+  "ram": {
+    "installed_bytes": 8589934592,
+    "installed_human": "8GB",
+    "installed_gib": "8.00 GiB",
+    "type": "DDR4",
+    "modules": [
+      {
+        "capacity_bytes": 4294967296,
+        "capacity_installed": "4GB",
+        "type": "DDR4",
+        "speed_mhz": 3200,
+        "manufacturer": "Micron Technology",
+        "part_number": "4ATF51264HZ-3G2J1"
+      },
+      {
+        "capacity_bytes": 4294967296,
+        "capacity_installed": "4GB",
+        "type": "DDR4",
+        "speed_mhz": 3200,
+        "manufacturer": "Micron Technology",
+        "part_number": "4ATF51264HZ-3G2J1"
+      }
+    ]
+  },
+  "disks": [
+    {
+      "name": "\\\\.\\PHYSICALDRIVE0",
+      "model": "NVMe INTEL SSDPEKNW512G8",
+      "serial": "0000_0000_0100_0000_E4D2_5CC2_AC05_5401.",
+      "size_bytes": 512105932800,
+      "size_gb": "512GB",
+      "transport": "NVMe",
+      "media_type": "Fixed hard disk media"
+    }
+  ],
+  "mechanika": {
+    "present": false,
+    "items": []
+  },
+  "gpu": [
+    "Intel(R) Iris(R) Xe Graphics"
+  ],
+  "network": {
+    "wifi": [
+      "Intel(R) Wi-Fi 6 AX201 160MHz"
+    ],
+    "ethernet": []
+  },
+  "battery": {
+    "present": true,
+    "percentage": "100%",
+    "full_wh": 25.41,
+    "design_wh": 50.01
+  },
+  "lcd": "15.3 1920x1080",
+  "flags": {
+    "bt": "Ano",
+    "fp": "NE",
+    "wc": "Ano",
+    "b_kbd": "Check",
+    "face": "Check"
+  },
+  "summary": {
+    "model_line": "ASUSTeK COMPUTER INC. VivoBook_ASUSLaptop X521EA_S533EA S/N: M3N0CV11P745118",
+    "cpu_line": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+    "ram_line": "8GB DDR4",
+    "disk_line": "INTEL SSDPEKNW512G8 512GB NVMe",
+    "mechanika_line": "NE",
+    "gpu1": "Intel(R) Iris(R) Xe Graphics",
+    "gpu2": "NE",
+    "lcd_line": "15.3 1920x1080",
+    "wifi_line": "Intel(R) Wi-Fi 6 AX201 160MHz [Wifi AX]",
+    "bat_line": "50.81% [25.41/50.01 Wh]",
+    "os_line": "Microsoft Windows 11 Famille 64 bits (25H2)",
+    "flags_line": "BT:Ano WC:Ano FACE:Check B-KBD:Check"
+  }
+}
