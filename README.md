@@ -6,7 +6,7 @@ The goal of this tool is to help technicians quickly identify and document the h
 
 The script can run on both Windows and Linux environments, making it suitable for cross-platform hardware analysis.
 
---
+---
 
 ## Features
 
@@ -68,7 +68,7 @@ The script collects and generates reports containing the following information :
 -   Fingerprint reader
 -   Keyboard backlight
 
---
+---
 
 ## Output
 
@@ -76,7 +76,7 @@ The script automatically generates two files :
 -   machine_report.json – structured JSON report
 -   machine_report.txt – human-readable summary
 
-Example output :
+### Example output :
 
 =====================================================================================
 SYSTEM MATERIAL REPORT
@@ -96,7 +96,7 @@ BAT: 92.10% [45.00/48.90 Wh]
 OS: Microsoft Windows 11 Famille 64 bits (25H2)
 BT:Ano WC:Ano FACE:Check B-KBD:Check
 
---
+---
 
 ## Technologies Used
 
@@ -106,7 +106,7 @@ BT:Ano WC:Ano FACE:Check B-KBD:Check
 -   JSON data processing
 -   Cross-platform system detection
 
---
+---
 
 ## Use Case
 
@@ -114,7 +114,7 @@ This tool was developed as part of an internship project to assist in the hardwa
 
 It can be used in environments where technicians need to quickly collect system specifications and generate standardized reports
 
---
+---
 
 ## Author
 
