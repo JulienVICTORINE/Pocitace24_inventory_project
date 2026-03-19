@@ -113,4 +113,4 @@ It can be used in environments where technicians need to quickly collect system 
 
 ## Author
 
-Developed as part of a software development internship project
+Project developed during my internship at Počítače24.cz in Prague
